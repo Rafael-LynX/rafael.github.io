@@ -1,0 +1,4 @@
+baseURL = 'https://github.com/Rafael-LynX/rafael.github.io.git'
+languageCode = 'en-us'
+title = 'My blog'
+theme = "risotto"
