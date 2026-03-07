@@ -1,10 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>rafael-lynx info-sec</title><link>https://rafael-lynx.github.io/</link><description>Recent content on rafael-lynx info-sec</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Thu, 05 Mar 2026 19:41:20 -0300</lastBuildDate><atom:link href="https://rafael-lynx.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>First</title><link>https://rafael-lynx.github.io/posts/first/</link><pubDate>Thu, 05 Mar 2026 19:41:20 -0300</pubDate><guid>https://rafael-lynx.github.io/posts/first/</guid><description/></item><item><title>About</title><link>https://rafael-lynx.github.io/about/</link><pubDate>Thu, 05 Mar 2026 19:05:59 -0300</pubDate><guid>https://rafael-lynx.github.io/about/</guid><description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href="https://github.com/gohugoio/hugo/blob/master/LICENSE"&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
-&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>rafael-lynx info-sec</title><link>https://rafael-lynx.github.io/</link><description>Recent content on rafael-lynx info-sec</description><generator>Hugo</generator><language>pt-br</language><copyright>© [Rafael Vieira](https://github.com/Rafael-LynX)</copyright><lastBuildDate>Fri, 06 Mar 2026 16:34:14 -0300</lastBuildDate><atom:link href="https://rafael-lynx.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Example Post</title><link>https://rafael-lynx.github.io/posts/example-post/</link><pubDate>Fri, 06 Mar 2026 16:34:14 -0300</pubDate><guid>https://rafael-lynx.github.io/posts/example-post/</guid><description>&lt;p&gt;Este artigo oferece uma simples sintaxe de markdown feito para usar arquivos do hugo.&lt;/p&gt;
+&lt;h2 id="headings"&gt;Headings&lt;/h2&gt;
+&lt;p&gt;Teste comandos&lt;/p&gt;
+&lt;h2 id="risotto"&gt;risotto&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://themes.gohugo.io/themes/risotto/"&gt;https://themes.gohugo.io/themes/risotto/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/joeroe/risotto"&gt;https://github.com/joeroe/risotto&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="digio"&gt;digio&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://themes.gohugo.io/themes/digio-theme/"&gt;https://themes.gohugo.io/themes/digio-theme/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/danapixels/digio-theme"&gt;https://github.com/danapixels/digio-theme&lt;/a&gt;&lt;/p&gt;</description></item><item><title>First</title><link>https://rafael-lynx.github.io/posts/first/</link><pubDate>Thu, 05 Mar 2026 19:41:20 -0300</pubDate><guid>https://rafael-lynx.github.io/posts/first/</guid><description/></item><item><title>About</title><link>https://rafael-lynx.github.io/about/</link><pubDate>Thu, 05 Mar 2026 19:05:59 -0300</pubDate><guid>https://rafael-lynx.github.io/about/</guid><description>&lt;p&gt;Trabalho como auxiliar de cadastro de produtos, mas meu foco real é estudar e entender a anatomia de vulnerabilidades, segurança de aplicações, ferramentas e CTFs. Este blog visa documentar a fundo sobre cybersec e tudo que eu achar interessante aprender.&lt;/p&gt;
+&lt;p&gt;Nada aqui é perfeito, mas é tudo feito por mim.&lt;/p&gt;
+&lt;h2 id="interesses"&gt;Interesses&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/yuin/goldmark"&gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/alecthomas/chroma"&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/muesli/smartcrop"&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/spf13/cobra"&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/spf13/viper"&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;application security (appsec)&lt;/li&gt;
+&lt;li&gt;linux&lt;/li&gt;
+&lt;li&gt;escrever artigos&lt;/li&gt;
+&lt;li&gt;ferramentas open source&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;</description></item></channel></rss>
+&lt;h2 id="hands-on"&gt;Hands On&lt;/h2&gt;
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td align="center"&gt;
+			&lt;a href="https://profile.hackthebox.com/profile/019cc94e-934b-7174-8d0b-29055e786510"&gt;
+				&lt;img src="https://www.hackthebox.com/badge/image/019cc94e-934b-7174-8d0b-29055e786510" alt="RafaelLynX"&gt;
+			&lt;/a&gt;
+		&lt;/td&gt;
+		&lt;td align="center"&gt;
+			&lt;iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=222504" style="border:none; width:350px;"&gt;&lt;/iframe&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</description></item></channel></rss>
