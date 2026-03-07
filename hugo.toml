@@ -1,12 +1,11 @@
 # URL
 baseURL = "https://rafael-lynx.github.io/"
-
-# Linguagem do código
 languageCode = 'pt-br'
-
 # Título do blog e tema
 title = 'rafael-lynx info-sec'
+author = "Rafael Vieira"
 theme = "risotto"
+copyright = "© [Rafael Vieira](https://github.com/Rafael-LynX)"
 
 [pagination]
 pagerSize = 3
@@ -20,14 +19,24 @@ noindex = false
 palette = "tokyo-night-dark"
 
 [params.about]
-title = "risotto"
-description = "A"
-logo = "----"
+title = "Network and Contact"
+description = ""
+logo_image = "images/icons8-console-32.png"
 
 [[params.socialLinks]]
 icon = "fa-brands fa-github"
 title = "Github"
-url = "https://"
+url = "https://github.com/Rafael-LynX"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "RafaelLynX@proton.me"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-linkedin"
+title = "LinkedIn"
+url = "https://br.linkedin.com/in/rafaelvieira-cyber"
 
 # menu que define as paginas aparecerem
 [menu]
@@ -43,3 +52,42 @@ url = "https://"
 		name = "Posts"
 		url = "/posts/"
 		weight = 2
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup]
+	[markup.tableOfContents]
+		startLevel = 2
+		endLevel = 3
+		ordered = true
+
+[privacy]
+	[privacy.vimeo]
+		disabled = false
+		simple = true
+
+	[privacy.x]
+		disabled = false
+		enableDNT = true
+		simple = true
+	
+	[privacy.instagram]
+		disabled = false
+		simple = true
+
+	[privacy.youtube]
+		disabled = false
+		privacyEnhaced = true
+
+[services]
+	[services.instagram]
+		disableInlineCSS = true
+	
+	[services.x]
+		disableInlineCSS = true

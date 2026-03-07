@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on rafael-lynx info-sec</title>
+    <link>http://localhost:1313/series/</link>
+    <description>Recent content in Series on rafael-lynx info-sec</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <copyright>© [Rafael Vieira](https://github.com/Rafael-LynX)</copyright>
+    <lastBuildDate>Fri, 06 Mar 2026 16:34:14 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Examples</title>
+      <link>http://localhost:1313/series/examples/</link>
+      <pubDate>Fri, 06 Mar 2026 16:34:14 -0300</pubDate>
+      <guid>http://localhost:1313/series/examples/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

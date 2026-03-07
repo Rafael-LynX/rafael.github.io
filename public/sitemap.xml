@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-03-06T16:34:14-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/css/</loc>
+    <lastmod>2026-03-06T16:34:14-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/example-post/</loc>
+    <lastmod>2026-03-06T16:34:14-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/examples/</loc>
+    <lastmod>2026-03-06T16:34:14-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/html/</loc>
+    <lastmod>2026-03-06T16:34:14-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/markdown/</loc>
+    <lastmod>2026-03-06T16:34:14-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
+    <lastmod>2026-03-06T16:34:14-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/syntax/</loc>
+    <lastmod>2026-03-06T16:34:14-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-03-06T16:34:14-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/themes/</loc>
+    <lastmod>2026-03-06T16:34:14-03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/terceiro/</loc>
     <lastmod>2026-03-05T20:22:04-03:00</lastmod>
   </url><url>
@@ -19,9 +49,5 @@
   </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2026-03-05T19:05:59-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

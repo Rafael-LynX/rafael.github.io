@@ -1,23 +1,32 @@
 +++
 title = 'About'
+description = "Blog de conteúdo de segurança da informação"
 date = 2026-03-05T19:05:59-03:00
 draft = false
+author = "Rafael Vieira"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Trabalho como auxiliar de cadastro de produtos, mas meu foco real é estudar e entender a anatomia de vulnerabilidades, segurança de aplicações, ferramentas e CTFs. Este blog visa documentar a fundo sobre cybersec e tudo que eu achar interessante aprender.
 
-Hugo makes use of a variety of open source projects including:
+Nada aqui é perfeito, mas é tudo feito por mim.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+## Interesses
+- application security (appsec)
+- linux
+- escrever artigos
+- ferramentas open source
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## Hands On 
+<table>
+	<tr>
+		<td align="center">
+			<a href="https://profile.hackthebox.com/profile/019cc94e-934b-7174-8d0b-29055e786510">
+				<img src="https://www.hackthebox.com/badge/image/019cc94e-934b-7174-8d0b-29055e786510" alt="RafaelLynX">
+			</a>
+		</td>
+		<td align="center">
+			<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=222504" style="border:none; width:350px;"></iframe>
+		</td>
+	</tr>
+</table>
