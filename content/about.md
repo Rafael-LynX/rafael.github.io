@@ -6,15 +6,16 @@ draft = false
 author = "Rafael Vieira"
 +++
 
-Trabalho como auxiliar de cadastro de produtos, mas meu foco real é estudar e entender a anatomia de vulnerabilidades, segurança de aplicações, ferramentas e CTFs. Este blog visa documentar a fundo sobre cybersec e tudo que eu achar interessante aprender.
+Trabalho como auxiliar de cadastro de produtos, mas meu foco real é estudar e entender a anatomia de vulnerabilidades, segurança de aplicações, ferramentas, CTFs e AI Security com objetivo de alcançar um perfil PI-Shaped em segurança. Este blog visa documentar a fundo sobre cybersec e tudo que eu achar interessante aprender.
 
 Nada aqui é perfeito, mas é tudo feito por mim.
 
 ## Interesses
-- application security (appsec)
-- linux
-- escrever artigos
-- ferramentas open source
+- Application security (appsec)
+- Linux
+- Escrever artigos
+- Ferramentas open source
+- AI Security
 
 
 ## Hands On 

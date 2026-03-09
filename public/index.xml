@@ -17,32 +17,11 @@
       <description>&lt;p&gt;Este artigo oferece uma simples sintaxe de markdown feito para usar arquivos do hugo.&lt;/p&gt;&#xA;&lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;&#xA;&lt;p&gt;Teste comandos&lt;/p&gt;&#xA;&lt;h2 id=&#34;risotto&#34;&gt;risotto&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://themes.gohugo.io/themes/risotto/&#34;&gt;https://themes.gohugo.io/themes/risotto/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/joeroe/risotto&#34;&gt;https://github.com/joeroe/risotto&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;digio&#34;&gt;digio&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://themes.gohugo.io/themes/digio-theme/&#34;&gt;https://themes.gohugo.io/themes/digio-theme/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/danapixels/digio-theme&#34;&gt;https://github.com/danapixels/digio-theme&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Terceiro</title>
-      <link>http://localhost:1313/posts/terceiro/</link>
-      <pubDate>Thu, 05 Mar 2026 20:22:04 -0300</pubDate>
-      <guid>http://localhost:1313/posts/terceiro/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Second</title>
-      <link>http://localhost:1313/posts/second/</link>
-      <pubDate>Thu, 05 Mar 2026 20:21:03 -0300</pubDate>
-      <guid>http://localhost:1313/posts/second/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>First</title>
-      <link>http://localhost:1313/posts/first/</link>
-      <pubDate>Thu, 05 Mar 2026 19:41:20 -0300</pubDate>
-      <guid>http://localhost:1313/posts/first/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 05 Mar 2026 19:05:59 -0300</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Trabalho como auxiliar de cadastro de produtos, mas meu foco real é estudar e entender a anatomia de vulnerabilidades, segurança de aplicações, ferramentas e CTFs. Este blog visa documentar a fundo sobre cybersec e tudo que eu achar interessante aprender.&lt;/p&gt;&#xA;&lt;p&gt;Nada aqui é perfeito, mas é tudo feito por mim.&lt;/p&gt;&#xA;&lt;h2 id=&#34;interesses&#34;&gt;Interesses&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;application security (appsec)&lt;/li&gt;&#xA;&lt;li&gt;linux&lt;/li&gt;&#xA;&lt;li&gt;escrever artigos&lt;/li&gt;&#xA;&lt;li&gt;ferramentas open source&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;hands-on&#34;&gt;Hands On&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&lt;td align=&#34;center&#34;&gt;&#xA;&#x9;&#x9;&#x9;&lt;a href=&#34;https://profile.hackthebox.com/profile/019cc94e-934b-7174-8d0b-29055e786510&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;img src=&#34;https://www.hackthebox.com/badge/image/019cc94e-934b-7174-8d0b-29055e786510&#34; alt=&#34;RafaelLynX&#34;&gt;&#xA;&#x9;&#x9;&#x9;&lt;/a&gt;&#xA;&#x9;&#x9;&lt;/td&gt;&#xA;&#x9;&#x9;&lt;td align=&#34;center&#34;&gt;&#xA;&#x9;&#x9;&#x9;&lt;iframe src=&#34;https://tryhackme.com/api/v2/badges/public-profile?userPublicId=222504&#34; style=&#34;border:none; width:350px;&#34;&gt;&lt;/iframe&gt;&#xA;&#x9;&#x9;&lt;/td&gt;&#xA;&#x9;&lt;/tr&gt;&#xA;&lt;/table&gt;</description>
+      <description>&lt;p&gt;Trabalho como auxiliar de cadastro de produtos, mas meu foco real é estudar e entender a anatomia de vulnerabilidades, segurança de aplicações, ferramentas, CTFs e AI Security com objetivo de alcançar um perfil PI-Shaped em segurança. Este blog visa documentar a fundo sobre cybersec e tudo que eu achar interessante aprender.&lt;/p&gt;&#xA;&lt;p&gt;Nada aqui é perfeito, mas é tudo feito por mim.&lt;/p&gt;&#xA;&lt;h2 id=&#34;interesses&#34;&gt;Interesses&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Application security (appsec)&lt;/li&gt;&#xA;&lt;li&gt;Linux&lt;/li&gt;&#xA;&lt;li&gt;Escrever artigos&lt;/li&gt;&#xA;&lt;li&gt;Ferramentas open source&lt;/li&gt;&#xA;&lt;li&gt;AI Security&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;hands-on&#34;&gt;Hands On&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&lt;td align=&#34;center&#34;&gt;&#xA;&#x9;&#x9;&#x9;&lt;a href=&#34;https://profile.hackthebox.com/profile/019cc94e-934b-7174-8d0b-29055e786510&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;img src=&#34;https://www.hackthebox.com/badge/image/019cc94e-934b-7174-8d0b-29055e786510&#34; alt=&#34;RafaelLynX&#34;&gt;&#xA;&#x9;&#x9;&#x9;&lt;/a&gt;&#xA;&#x9;&#x9;&lt;/td&gt;&#xA;&#x9;&#x9;&lt;td align=&#34;center&#34;&gt;&#xA;&#x9;&#x9;&#x9;&lt;iframe src=&#34;https://tryhackme.com/api/v2/badges/public-profile?userPublicId=222504&#34; style=&#34;border:none; width:350px;&#34;&gt;&lt;/iframe&gt;&#xA;&#x9;&#x9;&lt;/td&gt;&#xA;&#x9;&lt;/tr&gt;&#xA;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>

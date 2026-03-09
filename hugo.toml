@@ -31,7 +31,7 @@ url = "https://github.com/Rafael-LynX"
 [[params.socialLinks]]
 icon = "fa-solid fa-envelope"
 title = "Email"
-url = "RafaelLynX@proton.me"
+url = "mailto:RafaelLynX@proton.me"
 
 [[params.socialLinks]]
 icon = "fa-brands fa-linkedin"
