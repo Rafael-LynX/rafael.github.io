@@ -17,6 +17,7 @@ Nada aqui é perfeito, mas é tudo feito por mim.
 - Ferramentas open source
 - AI Security
 
+Acompanhe meu foco/disciplina: https://www.focumon.com/trainers/Rafael_Vie_GlBS
 
 ## Hands On 
 <table>
